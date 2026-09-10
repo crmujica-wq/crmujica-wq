@@ -27,3 +27,18 @@ videoModal?.addEventListener('click', (event) => {
 document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape' && videoModal?.classList.contains('is-open')) closeVideo();
 });
+
+const musicPlayer = document.getElementById('music-player');
+const musicToggle = document.getElementById('music-toggle');
+const portfolioAudio = document.getElementById('portfolio-audio');
+const musicStatus = document.getElementById('music-status');
+const musicIcon = document.getElementById('music-icon');
+musicToggle?.addEventListener('click', async () => {
+  if (!portfolioAudio?.querySelector('source')?.getAttribute('src')) {
+    musicStatus.textContent = 'Falta el audio';
+    return;
+  }
+  if (portfolioAudio.paused) await portfolioAudio.play(); else portfolioAudio.pause();
+});
+portfolioAudio?.addEventListener('play', () => { musicPlayer?.classList.add('is-playing'); musicToggle?.setAttribute('aria-pressed','true'); musicToggle?.setAttribute('aria-label','Pausar música'); musicIcon.textContent='Ⅱ'; musicStatus.textContent='Reproduciendo'; });
+portfolioAudio?.addEventListener('pause', () => { musicPlayer?.classList.remove('is-playing'); musicToggle?.setAttribute('aria-pressed','false'); musicToggle?.setAttribute('aria-label','Reproducir música'); musicIcon.textContent='▶'; musicStatus.textContent='Audio pendiente'; });
