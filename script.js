@@ -33,7 +33,13 @@ const musicToggle = document.getElementById('music-toggle');
 const portfolioAudio = document.getElementById('portfolio-audio');
 const musicStatus = document.getElementById('music-status');
 const musicIcon = document.getElementById('music-icon');
-window.addEventListener('load', () => { portfolioAudio?.play().catch(() => { musicStatus.textContent = 'Pulsa para escuchar'; }); });
+const startMusic = (event) => {
+  if (event.target?.closest?.('.music-player')) return;
+  portfolioAudio?.play().catch(() => { musicStatus.textContent = 'Pulsa para escuchar'; });
+  ['pointerdown', 'keydown', 'touchstart', 'scroll'].forEach((eventName) => window.removeEventListener(eventName, startMusic));
+};
+window.addEventListener('load', () => { portfolioAudio?.play().catch(() => { musicStatus.textContent = 'Interactúa para escuchar'; }); });
+['pointerdown', 'keydown', 'touchstart', 'scroll'].forEach((eventName) => window.addEventListener(eventName, startMusic, { once: true, passive: true }));
 musicToggle?.addEventListener('click', async () => {
   if (!portfolioAudio?.querySelector('source')?.getAttribute('src')) {
     musicStatus.textContent = 'Falta el audio';
