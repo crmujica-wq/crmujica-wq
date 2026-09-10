@@ -1,10 +1,12 @@
 <div align="center">
 
-# Cristian Rojas
+<img src="assets/header.svg" alt="Cristian Rojas - Web Developer | Backend" width="100%" />
 
 ### Desarrollador web y backend en formación
 
-Diseñando soluciones digitales útiles, funcionales y orientadas a las personas.
+<a href="https://crmujica-wq.github.io/crmujica-wq/" target="_blank"><img src="https://img.shields.io/badge/%E2%86%92%20VISITAR%20PORTAFOLIO%20WEB-9FCE45?style=for-the-badge&labelColor=16394D&color=9FCE45" alt="Visitar portafolio web"></a>
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-crmujica--wq-181717?style=for-the-badge&logo=github)](https://github.com/crmujica-wq)
 [![Email](https://img.shields.io/badge/Contacto-crmujica%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crmujica@gmail.com)
