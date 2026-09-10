@@ -8,8 +8,6 @@
 
 <br>
 
-<img src="https://github.com/crmujica-wq.png" alt="Foto de perfil de Cristian Rojas" width="130" />
-
 [![GitHub](https://img.shields.io/badge/GitHub-crmujica--wq-181717?style=for-the-badge&logo=github)](https://github.com/crmujica-wq)
 [![Email](https://img.shields.io/badge/Contacto-crmujica%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crmujica@gmail.com)
 
