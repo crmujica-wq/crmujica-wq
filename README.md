@@ -124,7 +124,7 @@ Proyecto privado en desarrollo. Su propósito es explorar una solución digital 
 
 - GitHub: [github.com/crmujica-wq](https://github.com/crmujica-wq)
 - Correo: [crmujica@gmail.com](mailto:crmujica@gmail.com)
-- Portafolio web: [Visitar portafolio](https://crmujica-wq.github.io/)
+- Portafolio web: [Visitar portafolio](https://crmujica-wq.github.io/crmujica-wq/)
 
 ```text
 System status: online.
