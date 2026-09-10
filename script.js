@@ -41,4 +41,4 @@ musicToggle?.addEventListener('click', async () => {
   if (portfolioAudio.paused) await portfolioAudio.play(); else portfolioAudio.pause();
 });
 portfolioAudio?.addEventListener('play', () => { musicPlayer?.classList.add('is-playing'); musicToggle?.setAttribute('aria-pressed','true'); musicToggle?.setAttribute('aria-label','Pausar música'); musicIcon.textContent='Ⅱ'; musicStatus.textContent='Reproduciendo'; });
-portfolioAudio?.addEventListener('pause', () => { musicPlayer?.classList.remove('is-playing'); musicToggle?.setAttribute('aria-pressed','false'); musicToggle?.setAttribute('aria-label','Reproducir música'); musicIcon.textContent='▶'; musicStatus.textContent='Audio pendiente'; });
+portfolioAudio?.addEventListener('pause', () => { musicPlayer?.classList.remove('is-playing'); musicToggle?.setAttribute('aria-pressed','false'); musicToggle?.setAttribute('aria-label','Reproducir música'); musicIcon.textContent='▶'; musicStatus.textContent='Tubular Bells · 2 min'; });
