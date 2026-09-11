@@ -2,9 +2,7 @@
 
 <img src="assets/header.svg" alt="Cristian Rojas - Web Developer | Backend" width="100%" />
 
-### Mi portafolio digital
-
-Desarrollador Full Stack Junior · Trainee en tecnología
+### Desarrollador web y backend en formación
 
 <a href="https://crmujica-wq.github.io/crmujica-wq/" target="_blank"><img src="https://img.shields.io/badge/%E2%86%92%20VISITAR%20PORTAFOLIO%20WEB-9FCE45?style=for-the-badge&labelColor=16394D&color=9FCE45" alt="Visitar portafolio web"></a>
 
