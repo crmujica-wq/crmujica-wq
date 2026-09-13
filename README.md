@@ -15,7 +15,7 @@
 
 ---
 
-## > whoami.exe
+## Sobre mí
 
 ```text
 ┌──[ CRISTIAN ROJAS ]
@@ -27,7 +27,7 @@
 └── Estado          :: Construyendo soluciones y aprendiendo continuamente
 ```
 
-## > overview.md
+## Descripción general
 
 Soy Cristian Rojas, desarrollador en formación con experiencia práctica en interfaces web, APIs REST, bases de datos relacionales y autenticación. Mi recorrido se ha construido mediante proyectos que integran frontend, backend, persistencia de datos, validaciones y documentación técnica.
 
@@ -41,7 +41,7 @@ Me interesa participar en equipos donde pueda transformar necesidades reales en 
 - Documentar las decisiones para facilitar la colaboración.
 - Aprender de cada desafío y mejorar de manera iterativa.
 
-## > stack.loading
+## Tecnologías y herramientas
 
 ### Frontend Core & UI
 
@@ -66,38 +66,31 @@ Me interesa participar en equipos donde pueda transformar necesidades reales en 
 
 Documentación técnica · pruebas de endpoints · validaciones · logs · arquitectura modular · aprendizaje continuo
 
-## > featured.projects
+## Proyectos destacados
 
 | Proyecto | Descripción | Estado | Enlace |
 |---|---|---|---|
-| 💳 **Alky Wallet** | Simulación de banca personal con login, transacciones, depósitos y envío de dinero. | Público | [Abrir billetera](https://crmujica-wq.github.io/alky_wallet-git/) |
-| ⚙️ **Node Express Web App** | Aplicación para gestionar usuarios, perfiles y productos mediante una API REST protegida. | Público | [Ver proyecto](https://github.com/crmujica-wq/node-express-web-app) |
+| 🍽️ **Casa Lila** | Gestión demostrativa de pedidos, inventario, recetas, ventas y tareas por perfil. | Demo pública · código privado | [Probar demo](https://casa-lila-gestion-restaurante.pages.dev/) |
+| 🏡 **Cabaña en Laguna Verde** | Sitio del alojamiento con mosaico de fotos, información y contacto por WhatsApp. | Público | [Visitar](https://crmujica-wq.github.io/Laguna_Verde/) |
 | 👩‍👧 **Mama360** | Solución digital orientada a centralizar información, apoyo y recursos para madres y familias. | Privado | Proyecto privado |
 
-## > project.details
+## Detalles del proyecto
 
-### 💳 Alky Wallet Digital
+### 🍽️ Casa Lila — Gestión de restaurante
 
-Aplicación web de simulación bancaria desarrollada con HTML, CSS y JavaScript. El proyecto incorpora pantallas de autenticación, transacciones, depósitos y envío de dinero, junto con una navegación fluida y estilos responsivos.
+Aplicación web de demostración para organizar tareas de un restaurante. Incluye perfiles de administración, cocina y atención; carta, pedidos y seguimiento de comandas; inventario y compras; recetas y cálculo de costos; registro de ventas y resumen diario. La demo usa datos locales de prueba, separados para cada visitante.
 
-**Lo que demuestra:** construcción de interfaces, organización de vistas, lógica de interacción, experiencia de usuario y desarrollo frontend.
+**Lo que demuestra:** convertir procesos operativos reales en flujos digitales claros, organizar información por perfil, diseñar herramientas de apoyo para equipos y publicar una demo web interactiva.
 
-[Abrir billetera e interactuar](https://crmujica-wq.github.io/alky_wallet-git/) · [Ver código fuente](https://github.com/crmujica-wq/alky_wallet-git)
+[Probar demo en Cloudflare Pages](https://casa-lila-gestion-restaurante.pages.dev/) · Código fuente privado
 
-### ⚙️ Node Express Web App
+### 🏡 Cabaña en Laguna Verde — Sitio web
 
-Proyecto integrador de desarrollo backend. Permite gestionar usuarios, perfiles y productos a través de un servidor Node.js con Express, PostgreSQL y Sequelize ORM.
+Página web para presentar el alojamiento en Laguna Verde. Incluye un mosaico de fotografías que se pueden ampliar, información del espacio y un acceso directo para consultas por WhatsApp.
 
-**Lo que demuestra:**
+**Lo que demuestra:** presentación digital de un servicio, organización visual de contenido, galería interactiva y conexión entre la página web y un canal de contacto.
 
-- Arquitectura modular con rutas, controladores, middlewares, modelos y servicios.
-- CRUD de productos y gestión de usuarios.
-- Relaciones 1:1, 1:N y N:M.
-- Autenticación y protección de rutas con JWT.
-- Validación de archivos mediante Multer.
-- Logs, respuestas consistentes y pruebas de funcionamiento.
-
-[Abrir repositorio Node Express Web App](https://github.com/crmujica-wq/node-express-web-app)
+[Visitar la página](https://crmujica-wq.github.io/Laguna_Verde/)
 
 ### 👩‍👧 Mama360
 
@@ -106,7 +99,7 @@ Proyecto privado en desarrollo. Su propósito es explorar una solución digital 
 **Estado:** Proyecto privado  
 **Enlace:** Proyecto privado
 
-## > strengths.exe
+## Fortalezas
 
 - Desarrollo de APIs REST con Node.js y Express.
 - Manejo inicial de PostgreSQL, SQL y Sequelize ORM.
@@ -114,7 +107,7 @@ Proyecto privado en desarrollo. Su propósito es explorar una solución digital 
 - Interés por resolver problemas y aprender nuevas herramientas.
 - Disposición para colaborar en equipos dinámicos y remotos.
 
-## > growth.plan
+## Plan de crecimiento
 
 - Profundizar en testing automatizado.
 - Fortalecer despliegue en nube y prácticas CI/CD.
@@ -122,7 +115,7 @@ Proyecto privado en desarrollo. Su propósito es explorar una solución digital 
 - Continuar estudiando arquitectura y patrones de diseño.
 - Incorporar demos, capturas y métricas a los proyectos.
 
-## > connect.exe
+## Contacto
 
 - GitHub: [github.com/crmujica-wq](https://github.com/crmujica-wq)
 - Correo: [crmujica@gmail.com](mailto:crmujica@gmail.com)
