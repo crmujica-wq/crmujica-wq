@@ -71,7 +71,7 @@ Documentación técnica · pruebas de endpoints · validaciones · logs · arqui
 | Proyecto | Descripción | Estado | Enlace |
 |---|---|---|---|
 | 🍽️ **Casa Lila** | Gestión demostrativa de pedidos, inventario, recetas, ventas y tareas por perfil. | Demo pública · código privado | [Probar demo](https://casa-lila-gestion-restaurante.pages.dev/) |
-| 🏡 **Cabaña en Laguna Verde** | Sitio del alojamiento con mosaico de fotos, información y contacto por WhatsApp. | Público | [Visitar](https://crmujica-wq.github.io/Laguna_Verde/) |
+| 🏡 **Cabaña en Laguna Verde** | Sitio del alojamiento con mosaico de fotos, información y contacto por WhatsApp. | Público | [Visitar](https://cabana-laguna-verde.pages.dev/) |
 | 👩‍👧 **Mama360** | Solución digital orientada a centralizar información, apoyo y recursos para madres y familias. | Privado | Proyecto privado |
 
 ## Detalles del proyecto
@@ -90,7 +90,7 @@ Página web para presentar el alojamiento en Laguna Verde. Incluye un mosaico de
 
 **Lo que demuestra:** presentación digital de un servicio, organización visual de contenido, galería interactiva y conexión entre la página web y un canal de contacto.
 
-[Visitar la página](https://crmujica-wq.github.io/Laguna_Verde/)
+[Visitar la página](https://cabana-laguna-verde.pages.dev/)
 
 ### 👩‍👧 Mama360
 
